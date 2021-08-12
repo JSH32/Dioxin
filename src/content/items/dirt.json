@@ -1,0 +1,8 @@
+{
+    "id": "DIRT_BLOCK",
+    "name": "Dirt",
+    "description": "A block made of accumulated dirt",
+    "texture": "dirt.png",
+    "placeable": true,
+    "block": "DIRT_BLOCK"
+}

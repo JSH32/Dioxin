@@ -1,0 +1,6 @@
+{
+  "id": "DIRT_BLOCK",
+  "texture": "dirt.png",
+  "destructible": true,
+  "item": "DIRT_BLOCK"
+}
